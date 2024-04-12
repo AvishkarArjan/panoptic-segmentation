@@ -1,7 +1,8 @@
 output
 weights
 FastSAM
-
+panoptic_output.avi
+data/campus_vid.mp4
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
